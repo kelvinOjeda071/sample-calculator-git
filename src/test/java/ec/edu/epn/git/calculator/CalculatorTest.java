@@ -27,7 +27,7 @@ public class CalculatorTest {
     @Test
     public void given_two_integers_when_subtraction_then_ok(){
         System.out.println("Test02");
-        assertEquals(2, c.substraction(4,2));
+        assertEquals(2, c.subtraction(4,2));
     }
 
     @Test
